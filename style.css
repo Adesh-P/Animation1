@@ -78,8 +78,6 @@
     transform: translate(-50%,-50%);
     animation: scale-in-center 1.8s ease 0.8s 1.4 alternate both;
 }
-
-
 @keyframes scale-in-center {
         
     0% {
